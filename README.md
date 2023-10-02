@@ -63,6 +63,10 @@ Project version updated for Next.js 13.5.3 [This project will be maintained to r
 
     npm install
 
+### Install Husky
+
+    npm husky install
+
 ### Start Dev Enviroment
 
     npm run dev
