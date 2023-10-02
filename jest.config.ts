@@ -10,11 +10,11 @@ const createJestConfig = nextJest({
 
 const customJestConfig = {
   // use this option to enable/disable TypeScript support
-  tsConfig: './tsconfig.json',
+  // tsConfig: './tsconfig.json',
   // use this option to enable/disable eslint support
-  eslint: {
-    dirs: ['app', 'components', 'hooks', 'lib', 'store', 'util', '__test__'],
-  },
+  // eslint: {
+  //   dirs: ['app', 'components', 'hooks', 'lib', 'store', 'util', '__test__'],
+  // },
   setupFilesAfterEnv: ['<rootDir>/jest.setup.ts'],
   testPathIgnorePatterns: [
     '<rootDir>/.next/',
