@@ -19,10 +19,6 @@
     "prod": "vercel --prod",
     "prepare": "husky install"
   },
-  // "lint-staged": {
-  //   "*.{js,jsx,ts,tsx,}": ["prettier --write", "eslint"],
-  //   "*.{js,jsx,ts,tsx, md,html,css}": "prettier --write"
-  // },
   "dependencies": {
     "next": "latest",
     "prettier": "^3.0.3",
