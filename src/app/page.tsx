@@ -12,7 +12,7 @@ const Home: React.FC = (): JSX.Element => {
           height={350}
         />
         <Image src='/labs.png' alt='Alchemy Labs' width={1200} height={350} />
-        <h4 className='mt-8 text-center text-lg font-bold text-stone-300'>
+        <h4 className='mt-8 w-4/5 text-center text-lg font-bold text-stone-300'>
           Welcome to Next.js 13.5 Alchemy Boilerplate Base with: TypeScript 5.2
           + Tailwind CSS 3.3 + ESLint 8.5 + Prettier 3.0 + Jest 29.7 + React
           Testing Library 14.0 + Husky 7.0 + Lint-Staged 14.0
