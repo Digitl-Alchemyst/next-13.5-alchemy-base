@@ -18,7 +18,7 @@ const Home: React.FC = (): JSX.Element => {
           height={350}
         />
         <h4 className='text-center text-lg font-bold text-stone-300 mt-8'>
-          Welcome to Next.js 13.5 Alchemy Boilerplate Base with: TypeScript 5.2 + Tailwind CSS 3.3 + ESLint 8.5 + Prettier 3.0 + Jest 29.7 + React Testing Library 14.0 + Husky 7.0 + Lint-Staged 11.2 + Commitlint 13.1 + Github Actions 5.1
+          Welcome to Next.js 13.5 Alchemy Boilerplate Base with: TypeScript 5.2 + Tailwind CSS 3.3 + ESLint 8.5 + Prettier 3.0 + Jest 29.7 + React Testing Library 14.0 + Husky 7.0 + Lint-Staged 14.0 + Commitlint 13.1 + Github Actions 5.1
           <br />
           <br />
           Boilerplate by Digitl Alchemyst @ Digital Alchemyst Studios / Alchemy Labs
