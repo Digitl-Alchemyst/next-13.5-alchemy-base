@@ -45,6 +45,8 @@ Project version updated for Next.js 13.5.3 [This project will be maintained to r
     Next.js 13.5.3
     React 18.2.0
     npm/npx 9.5.1
+    Typescript 5.2.2
+    Tailwind CSS 3.3.3
 
 ## Packages
 
