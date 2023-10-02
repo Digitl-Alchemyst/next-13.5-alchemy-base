@@ -65,6 +65,7 @@ Project version updated for Next.js 13.5.3 [This project will be maintained to r
 
     npm run dev
 
+## View & Edit Project
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
