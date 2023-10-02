@@ -33,9 +33,9 @@ Basic boilerplate for Next.js projects using Typescript, Tailwind; with testing 
 Project version updated for Next.js 13.5.3 [This project will be maintained to remain current with Next.js @latest until otherwise noted.] This is ready to use in its current state This project is set up with Jest and React Testing Library for code testing, it has been configured to work with Typescript. Custom imports have been set up. Eslint settings are preconfigured using a moderately strict ruleset. Uses ESLint to parse to Typescript. Sets specific rules for for testing envrioment (files within the **tests** directory or files with names ending in .spec.js, .test.js, .ts, .jsx, or .tsx). Configured Import Resolver to handle custom import settings. Uses Lint-Staged & Husky to Lint & format with prettier all files before commiting updates.<br> <br>
 
 <h3>🚀 Tailwind CSS Extensions</h3><br>
-🌈 Neon Shadows
-🌀 Slower Spin Animation
-🙈 Scrollbar Hide
+🌈 Neon Shadows <br>
+🌀 Slower Spin Animation <br>
+🙈 Scrollbar Hide <br>
 
 
 <h3><ul><b>How to use</b></ul></h3>
