@@ -1,24 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1><ul><b>
+Next.js 13.4 BoilerPlate Base
+</b></ul></h1>
+
+Basic boilerplate for Next.js projects using Typescript, Tailwind; with testing features from Jest & React Testing Library
+
+<br>
+
+<h2><ul><b>Features</b></ul></h2>
+
+<h4>
+    Testing<br>
+        => Jest <br>
+        => React Testing Library <br>
+    Commits<br>
+        => Husky <br>
+        => Lint-Staged <br>
+    Imports<br>
+        => @ = ./src <br>
+        => @/c = ./src/components <br>
+        => @/h = ./src/hooks <br>
+        => @/l = ./src/lib <br>
+        => @/s = ./src/styles <br>
+        => @/u = ./src/util <br>
+        => # = ./ <br>
+        => ! = ./public <br>
+        => $ = ./schemas <br>
+
+</h4>
+
+<h3><ul><b>Project State</b></ul></h3>
+
+Project version updated for Next.js 13.5.3 [This project will be maintained to remain current with Next.js @latest until otherwise noted.] This is ready to use in its current state This project is set up with Jest and React Testing Library for code testing, it has been configured to work with Typescript. Custom imports have been set up. Eslint settings are preconfigured using a moderately strict ruleset. Uses ESLint to parse to Typescript. Sets specific rules for for testing envrioment (files within the **tests** directory or files with names ending in .spec.js, .test.js, .ts, .jsx, or .tsx). Configured Import Resolver to handle custom import settings. Uses Lint-Staged & Husky to Lint & format with prettier all files before commiting updates.<br> <br>
+
+<h3>🚀 Tailwind CSS Extensions</h3><br>
+🌈 Neon Shadows
+🌀 Slower Spin Animation
+🙈 Scrollbar Hide
+
+
+<h3><ul><b>How to use</b></ul></h3>
+
+## **Project Dependencies**
+
+    Next.js 13.5.3
+    React 18.2.0
+    npm/npx 9.5.1
+
+## Packages
+
+    Prettier 3.0.3
+    Tailwind Scrollbar 3.0.5
+    Tailwind Scrollbar Hide 1.1.7
+    Jest 29.7.0
+    Husky 8.0.3
+    Lint Staged 14.0.1
 
 ## Getting Started
 
-First, run the development server:
+### Install Dependencies
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+    npm install
+
+### Start Dev Enviroment
+
+    npm run dev
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+You can start editing the page by modifying `app/page.tsx` & `app/layout.tsx`. The page auto-updates as you edit the file.
 
 ## Learn More
 
@@ -27,7 +77,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You can check out the latest features & issues @ [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 

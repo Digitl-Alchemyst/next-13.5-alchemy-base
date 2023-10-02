@@ -96,9 +96,11 @@ const config: Config = {
         144: '36rem',
       },
       backgroundImage: {
-        // 'gradient-radial'  : 'radial-gradient(var(--tw-gradient-stops))',
-        // 'gradient-conic'   : 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-        // 'gradient-gradual' : 'linear-gradient(180deg, rgba(116, 116, 116, 0) 66.15%, #000000 100%)',
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
+        'gradient-conic':
+          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'gradient-gradual':
+          'linear-gradient(180deg, rgba(116, 116, 116, 0) 66.15%, #000000 100%)',
         site: 'url("/site.svg")',
         main: 'url("/main.png")',
         accent1: 'url("/accent1.png")',
